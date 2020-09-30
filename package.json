@@ -1,0 +1,17 @@
+{
+  "name": "job-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ajax": "0.0.4",
+    "cron": "^1.8.2",
+    "node-fetch": "^2.6.1",
+    "redis": "^3.0.2"
+  }
+}
